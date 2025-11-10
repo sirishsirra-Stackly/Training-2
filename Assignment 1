@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #fff8dc;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  border: 5px double green;
+  background-color: #ffe4b5;
+  width: 600px;
+  padding: 20px;
+  margin: 50px auto;
+  text-align: center;
+  border-radius: 15px;
+}
+
+h2 {
+  color: #00bfff;
+  font-size: 28px;
+  text-decoration: underline;
+}
+
+a {
+  color: #0000ff;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+a:hover {
+  color: #ff4500;
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h2>GitHub</h2>
+  <p>
+    <a href="https://github.com/" target="_blank">
+      Today I learned css - Box model, Margins and borders and background images.
+    </a>
+  </p>
+</div>
+
+</body>
+</html>
